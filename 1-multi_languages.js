@@ -1,6 +1,6 @@
 let c = 'C is fun';
 let b = 'Python is cool'
-let d = "JaveScript is amazing"
+let d = "JavaScript is amazing"
 
 console.log(c);
 console.log(b)
