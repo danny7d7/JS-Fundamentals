@@ -1,4 +1,8 @@
-console.log("C is fun");
-console.log("Python is cool")
-console.log("JaveScript is amazing")
+let c = 'C is fun';
+let b = 'Python is cool'
+let d = "JaveScript is amazing"
+
+console.log(C);
+console.log(b)
+console.log(d)
 
